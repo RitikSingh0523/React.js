@@ -4,14 +4,6 @@ import "./index.css"
 import { bookList } from "./books"
 import Book from "./Book"
 
-
-
-
-
-
-
-
-
 const BookList = () => {
     return (
         <>
@@ -26,9 +18,6 @@ const BookList = () => {
         </>
     );
 }
-
-
-
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
