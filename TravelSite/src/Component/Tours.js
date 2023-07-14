@@ -24,7 +24,7 @@ const Tours = () => {
             </p>
             <div className="tour-footer">
               <p>
-                <span><i className="fas fa-map"></i></span> china
+                <span><i className="fas fa-map"></i></span> {country}
               </p>
               <p>{days} days</p>
               <p>from ₹{cost}</p>
